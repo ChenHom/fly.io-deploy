@@ -14,6 +14,7 @@ Heroku 快不能用了，所以逃難到多人推薦的平台上
 
 ### 撰寫 Dockerfile
 撰寫執行專案的 docker image
+此步驟也可跳過讓 flyctl 自行判斷
 
 ```
 FROM pierrezemb/gostatic
